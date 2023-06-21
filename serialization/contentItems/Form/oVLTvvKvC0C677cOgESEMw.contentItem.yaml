@@ -1,0 +1,18 @@
+﻿id: oVLTvvKvC0C677cOgESEMw
+name: Form
+fields:
+  namelabel:
+    value: Name
+    type: ShortText
+  emaillabel:
+    value: Email
+    type: ShortText
+  phonelabel:
+    value: Phone
+    type: ShortText
+  messagetext:
+    value: Message
+    type: ShortText
+  buttontext:
+    value: Send
+    type: ShortText

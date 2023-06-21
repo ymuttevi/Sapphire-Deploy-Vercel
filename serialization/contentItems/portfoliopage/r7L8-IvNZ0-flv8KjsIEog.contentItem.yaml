@@ -1,0 +1,23 @@
+﻿id: r7L8-IvNZ0-flv8KjsIEog
+name: Portfolio page
+fields:
+  header:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "SpJcA_npHES76pr0w3JE_A",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/SpJcA_npHES76pr0w3JE_A"
+      }
+    type: Reference
+  portfolio:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "UXRQ6r1mxkekpGGkjwxtKg",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/UXRQ6r1mxkekpGGkjwxtKg"
+      }
+    type: Reference

@@ -1,0 +1,27 @@
+﻿id: partners
+name:
+  en-US: Partners
+description:
+  en-US: Partner Component.
+fields:
+- id: partnertitle
+  name:
+    en-US: PartnerTitle
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: partnerdescription
+  name:
+    en-US: PartnerDescription
+  type: LongText
+  required: false
+  helpText:
+    en-US: ''
+- id: partnercards
+  name:
+    en-US: PartnerCards
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''

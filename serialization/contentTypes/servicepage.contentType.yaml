@@ -1,0 +1,20 @@
+﻿id: servicepage
+name:
+  en-US: Servicepage
+description:
+  en-US: Service Page of Website.
+fields:
+- id: header
+  name:
+    en-US: header
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: services
+  name:
+    en-US: Services
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''

@@ -1,0 +1,19 @@
+﻿id: 7_f_FRmt9kySU3rJWimXTg
+name: Partnercard6
+fields:
+  cardtitle:
+    value: Partner
+    type: ShortText
+  carddescription:
+    value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+    type: LongText
+  image:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Media",
+        "id": "4okkgfb99kC6XVKlicj2qg",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/media/4okkgfb99kC6XVKlicj2qg"
+      }
+    type: Media

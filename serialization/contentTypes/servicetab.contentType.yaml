@@ -1,0 +1,20 @@
+﻿id: servicetab
+name:
+  en-US: ServiceTab
+description:
+  en-US: Service Tab support component for Service tabs component.
+fields:
+- id: description
+  name:
+    en-US: Description
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: image
+  name:
+    en-US: Image
+  type: Media
+  required: false
+  helpText:
+    en-US: ''

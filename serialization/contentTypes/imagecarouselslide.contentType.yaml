@@ -1,0 +1,27 @@
+﻿id: imagecarouselslide
+name:
+  en-US: ImageCarouselSlide
+description:
+  en-US: Carousel Slide for the Carousel Component.
+fields:
+- id: slideimage
+  name:
+    en-US: SlideImage
+  type: Media
+  required: false
+  helpText:
+    en-US: ''
+- id: caption
+  name:
+    en-US: caption
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: description
+  name:
+    en-US: description
+  type: LongText
+  required: false
+  helpText:
+    en-US: ''

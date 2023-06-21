@@ -1,0 +1,34 @@
+﻿id: imagelist
+name:
+  en-US: ImageList
+description:
+  en-US: Support Component for the Portfoilo Component.
+fields:
+- id: primaryimage
+  name:
+    en-US: PrimaryImage
+  type: Media
+  required: false
+  helpText:
+    en-US: ''
+- id: secondaryimage
+  name:
+    en-US: SecondaryImage
+  type: Media
+  required: false
+  helpText:
+    en-US: ''
+- id: terinaryimage
+  name:
+    en-US: TerinaryImage
+  type: Media
+  required: false
+  helpText:
+    en-US: ''
+- id: quadrupleimage
+  name:
+    en-US: QuadrupleImage
+  type: Media
+  required: false
+  helpText:
+    en-US: ''

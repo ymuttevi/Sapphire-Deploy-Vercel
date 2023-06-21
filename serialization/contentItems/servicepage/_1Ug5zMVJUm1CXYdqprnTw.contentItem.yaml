@@ -1,0 +1,23 @@
+﻿id: _1Ug5zMVJUm1CXYdqprnTw
+name: Services Page
+fields:
+  header:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "SpJcA_npHES76pr0w3JE_A",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/SpJcA_npHES76pr0w3JE_A"
+      }
+    type: Reference
+  services:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "Mc1BXQc49kqQRsTtV-P7hA",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/Mc1BXQc49kqQRsTtV-P7hA"
+      }
+    type: Reference

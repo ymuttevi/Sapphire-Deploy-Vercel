@@ -1,0 +1,27 @@
+﻿id: portfolio
+name:
+  en-US: Portfolio
+description:
+  en-US: Portfolio Component.
+fields:
+- id: text
+  name:
+    en-US: Text
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: description
+  name:
+    en-US: Description
+  type: LongText
+  required: false
+  helpText:
+    en-US: ''
+- id: imageslist
+  name:
+    en-US: ImagesList
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''

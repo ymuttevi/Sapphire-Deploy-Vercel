@@ -1,0 +1,34 @@
+﻿id: testimonial
+name:
+  en-US: testimonial
+description:
+  en-US: Testimonial Component.
+fields:
+- id: text
+  name:
+    en-US: Text
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: clientname
+  name:
+    en-US: clientname
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: clientimage
+  name:
+    en-US: clientimage
+  type: Media
+  required: false
+  helpText:
+    en-US: ''
+- id: description
+  name:
+    en-US: description
+  type: LongText
+  required: false
+  helpText:
+    en-US: ''

@@ -1,0 +1,16 @@
+﻿id: IOTM63ozWEqbgyi4zc2HzQ
+name: stab3
+fields:
+  description:
+    value: BROCHURE
+    type: ShortText
+  image:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Media",
+        "id": "KFH3Y-4dFkO9fVnUVcjCXQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/media/KFH3Y-4dFkO9fVnUVcjCXQ"
+      }
+    type: Media

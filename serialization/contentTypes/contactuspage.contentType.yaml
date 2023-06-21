@@ -1,0 +1,27 @@
+﻿id: contactuspage
+name:
+  en-US: Contactuspage
+description:
+  en-US: Contact Us Page for the website.
+fields:
+- id: header
+  name:
+    en-US: header
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: formsection
+  name:
+    en-US: formsection
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: testimonial
+  name:
+    en-US: testimonial
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''

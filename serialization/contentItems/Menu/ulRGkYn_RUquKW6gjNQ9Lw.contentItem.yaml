@@ -1,0 +1,9 @@
+﻿id: ulRGkYn_RUquKW6gjNQ9Lw
+name: About
+fields:
+  label:
+    value: About
+    type: ShortText
+  link:
+    value: /about
+    type: ShortText

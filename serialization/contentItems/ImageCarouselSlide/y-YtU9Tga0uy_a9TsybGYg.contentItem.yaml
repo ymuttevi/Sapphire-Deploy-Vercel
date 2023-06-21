@@ -1,0 +1,19 @@
+﻿id: y-YtU9Tga0uy_a9TsybGYg
+name: imgecarouselslide2
+fields:
+  caption:
+    value: Marketing Agency
+    type: ShortText
+  description:
+    value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. '
+    type: LongText
+  slideimage:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Media",
+        "id": "NV8fOlpGlEGU1T0Oe9JHvw",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/media/NV8fOlpGlEGU1T0Oe9JHvw"
+      }
+    type: Media

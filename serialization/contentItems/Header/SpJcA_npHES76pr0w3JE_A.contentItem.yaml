@@ -1,0 +1,51 @@
+﻿id: SpJcA_npHES76pr0w3JE_A
+name: customheader
+fields:
+  menuItems:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "w9WmfsbcwkmViUEqkOSXmQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/w9WmfsbcwkmViUEqkOSXmQ"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "ulRGkYn_RUquKW6gjNQ9Lw",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/ulRGkYn_RUquKW6gjNQ9Lw"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "3sBlWZ3XDUGSRU_zVaSxYQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/3sBlWZ3XDUGSRU_zVaSxYQ"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "aljweCvMDkinVFK0rCahmQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/aljweCvMDkinVFK0rCahmQ"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "Qi2CPbzusEK7BzcbD_1ISw",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/Qi2CPbzusEK7BzcbD_1ISw"
+      }
+    type: Reference
+  logo:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Media",
+        "id": "GA1qczEN4EuZYiaER3Uxjw",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/media/GA1qczEN4EuZYiaER3Uxjw"
+      }
+    type: Media

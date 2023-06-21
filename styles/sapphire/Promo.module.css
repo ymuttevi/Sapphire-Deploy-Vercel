@@ -1,0 +1,51 @@
+.Promo
+
+  .layout_padding {
+    padding-top: 120px;
+    padding-bottom: 120px;
+  }
+  
+  .layout_padding2 {
+    padding-top: 45px;
+    padding-bottom: 45px;
+  }
+  
+  .layout_padding2-top {
+    padding-top: 45px;
+  }
+  
+  .layout_padding2-bottom {
+    padding-bottom: 45px;
+  }
+  
+  .layout_padding-top {
+    padding-top: 120px;
+  }
+  
+  .layout_padding-bottom {
+    padding-bottom: 120px;
+  }
+  
+  .heading_container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    text-align: center;
+  }
+  
+  .heading_container h2 {
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
+  .heading_container h2 span {
+    color: #fbac2e;
+  }
+  

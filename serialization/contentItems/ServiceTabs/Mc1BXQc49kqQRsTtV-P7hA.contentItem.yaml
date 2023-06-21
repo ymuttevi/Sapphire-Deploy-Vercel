@@ -1,0 +1,40 @@
+﻿id: Mc1BXQc49kqQRsTtV-P7hA
+name: Services
+fields:
+  servicetitle:
+    value: 'SERVICES '
+    type: ShortText
+  servicedescription:
+    value: adipiscingelit,sed do eiusmod tempor incididunt ut labore et dolore magn
+    type: LongText
+  tabs:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "AKSnWTyjIkqC1bC8gmogVw",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/AKSnWTyjIkqC1bC8gmogVw"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "tWQ5XRJw8UuNNm5KFKVRbQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/tWQ5XRJw8UuNNm5KFKVRbQ"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "IOTM63ozWEqbgyi4zc2HzQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/IOTM63ozWEqbgyi4zc2HzQ"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "bF4RS7VpX0-2XI9x9saCtQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/bF4RS7VpX0-2XI9x9saCtQ"
+      }
+    type: Reference

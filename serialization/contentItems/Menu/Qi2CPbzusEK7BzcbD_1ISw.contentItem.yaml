@@ -1,0 +1,9 @@
+﻿id: Qi2CPbzusEK7BzcbD_1ISw
+name: Contact Us
+fields:
+  label:
+    value: Contact Us
+    type: ShortText
+  link:
+    value: /contactus
+    type: ShortText

@@ -1,0 +1,27 @@
+﻿id: servicetabs
+name:
+  en-US: ServiceTabs
+description:
+  en-US: Tabs component for the Website.
+fields:
+- id: servicetitle
+  name:
+    en-US: ServiceTitle
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: servicedescription
+  name:
+    en-US: ServiceDescription
+  type: LongText
+  required: false
+  helpText:
+    en-US: ''
+- id: tabs
+  name:
+    en-US: Tabs
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''

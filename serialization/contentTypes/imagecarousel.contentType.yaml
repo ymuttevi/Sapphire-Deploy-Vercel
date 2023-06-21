@@ -1,0 +1,13 @@
+﻿id: imagecarousel
+name:
+  en-US: ImageCarousel
+description:
+  en-US: Carousel Component.
+fields:
+- id: carouselslides
+  name:
+    en-US: CarouselSlides
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''

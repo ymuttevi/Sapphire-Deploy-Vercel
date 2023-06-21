@@ -1,0 +1,9 @@
+﻿id: aljweCvMDkinVFK0rCahmQ
+name: Portfolio
+fields:
+  label:
+    value: Portfolio
+    type: ShortText
+  link:
+    value: /portfolio
+    type: ShortText

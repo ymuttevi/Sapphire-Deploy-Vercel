@@ -1,0 +1,27 @@
+﻿id: promo
+name:
+  en-US: Promo
+description:
+  en-US: Promo Component.
+fields:
+- id: promotitle
+  name:
+    en-US: PromoTitle
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: promodescription
+  name:
+    en-US: PromoDescription
+  type: LongText
+  required: false
+  helpText:
+    en-US: ''
+- id: promobuttontext
+  name:
+    en-US: PromoButtonText
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''

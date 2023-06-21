@@ -1,0 +1,19 @@
+﻿id: UXRQ6r1mxkekpGGkjwxtKg
+name: Portfolio
+fields:
+  text:
+    value: PORTFOLIO
+    type: ShortText
+  description:
+    value: adipiscingelit,sed do eiusmod tempor incididunt ut labore et dolore magn
+    type: LongText
+  imageslist:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "FCl8Z635S0aSLbv75mcKvw",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/FCl8Z635S0aSLbv75mcKvw"
+      }
+    type: Reference

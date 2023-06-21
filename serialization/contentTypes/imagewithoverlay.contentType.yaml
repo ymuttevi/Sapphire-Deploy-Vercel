@@ -1,0 +1,34 @@
+﻿id: imagewithoverlay
+name:
+  en-US: ImagewithOverlay
+description:
+  en-US: Image with Overlay Component.
+fields:
+- id: backgroundimage
+  name:
+    en-US: BackgroundImage
+  type: Media
+  required: false
+  helpText:
+    en-US: ''
+- id: imagetext
+  name:
+    en-US: ImageText
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: description
+  name:
+    en-US: Description
+  type: LongText
+  required: false
+  helpText:
+    en-US: ''
+- id: buttontext
+  name:
+    en-US: ButtonText
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''

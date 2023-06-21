@@ -1,0 +1,20 @@
+﻿id: aboutpage
+name:
+  en-US: Aboutpage
+description:
+  en-US: About page for the website.
+fields:
+- id: header
+  name:
+    en-US: header
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: aboutsection
+  name:
+    en-US: aboutsection
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''

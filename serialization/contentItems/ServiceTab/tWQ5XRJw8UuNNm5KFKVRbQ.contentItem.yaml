@@ -1,0 +1,16 @@
+﻿id: tWQ5XRJw8UuNNm5KFKVRbQ
+name: Stab2
+fields:
+  description:
+    value: LOGO DESIGN
+    type: ShortText
+  image:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Media",
+        "id": "7X25v-RaQ0ekh9vZOyiHIw",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/media/7X25v-RaQ0ekh9vZOyiHIw"
+      }
+    type: Media

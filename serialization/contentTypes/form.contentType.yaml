@@ -1,0 +1,41 @@
+﻿id: form
+name:
+  en-US: Form
+description:
+  en-US: Form for the Website.
+fields:
+- id: namelabel
+  name:
+    en-US: NameLabel
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: emaillabel
+  name:
+    en-US: EmailLabel
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: phonelabel
+  name:
+    en-US: PhoneLabel
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: messagetext
+  name:
+    en-US: MessageText
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: buttontext
+  name:
+    en-US: ButtonText
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''

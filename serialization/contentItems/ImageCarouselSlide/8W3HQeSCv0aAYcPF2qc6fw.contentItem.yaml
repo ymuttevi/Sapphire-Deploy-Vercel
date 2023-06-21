@@ -1,0 +1,19 @@
+﻿id: 8W3HQeSCv0aAYcPF2qc6fw
+name: imgcarosuelslide1
+fields:
+  caption:
+    value: ' Design Agency'
+    type: ShortText
+  description:
+    value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    type: LongText
+  slideimage:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Media",
+        "id": "Koj7bAMAOkumDHmOPuB7mQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/media/Koj7bAMAOkumDHmOPuB7mQ"
+      }
+    type: Media

@@ -1,0 +1,20 @@
+﻿id: portfoliopage
+name:
+  en-US: Portfoliopage
+description:
+  en-US: Portfolio Page for the Website.
+fields:
+- id: header
+  name:
+    en-US: header
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: portfolio
+  name:
+    en-US: portfolio
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''

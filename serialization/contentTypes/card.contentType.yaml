@@ -1,0 +1,27 @@
+﻿id: card
+name:
+  en-US: Card
+description:
+  en-US: Card Type for the  Partners Component
+fields:
+- id: image
+  name:
+    en-US: Image
+  type: Media
+  required: false
+  helpText:
+    en-US: ''
+- id: cardtitle
+  name:
+    en-US: CardTitle
+  type: ShortText
+  required: false
+  helpText:
+    en-US: ''
+- id: carddescription
+  name:
+    en-US: CardDescription
+  type: LongText
+  required: false
+  helpText:
+    en-US: ''

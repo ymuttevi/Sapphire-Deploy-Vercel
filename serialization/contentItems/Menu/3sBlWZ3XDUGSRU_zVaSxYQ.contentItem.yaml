@@ -1,0 +1,9 @@
+﻿id: 3sBlWZ3XDUGSRU_zVaSxYQ
+name: Services
+fields:
+  label:
+    value: Services
+    type: ShortText
+  link:
+    value: /services
+    type: ShortText

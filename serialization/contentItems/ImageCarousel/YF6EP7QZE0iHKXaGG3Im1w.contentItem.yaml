@@ -1,0 +1,27 @@
+﻿id: YF6EP7QZE0iHKXaGG3Im1w
+name: Custompagecarousel
+fields:
+  carouselslides:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "8W3HQeSCv0aAYcPF2qc6fw",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/8W3HQeSCv0aAYcPF2qc6fw"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "y-YtU9Tga0uy_a9TsybGYg",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/y-YtU9Tga0uy_a9TsybGYg"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "cE5wu-lo-EWe8lLdndgmeA",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/cE5wu-lo-EWe8lLdndgmeA"
+      }
+    type: Reference

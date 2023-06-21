@@ -1,0 +1,12 @@
+﻿id: AaL563fhtEy2bjyIe_ZTsQ
+name: Promo
+fields:
+  promotitle:
+    value: LETS GET STARTED YOUR PROJECT
+    type: ShortText
+  promodescription:
+    value: adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magn
+    type: LongText
+  promobuttontext:
+    value: ' Let’s talk'
+    type: ShortText

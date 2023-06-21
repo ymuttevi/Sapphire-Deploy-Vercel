@@ -1,0 +1,69 @@
+﻿id: custompage
+name:
+  en-US: Custompage
+description:
+  en-US: Homepage for the Website.
+fields:
+- id: header
+  name:
+    en-US: Header
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: carousel
+  name:
+    en-US: carousel
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: services
+  name:
+    en-US: services
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: promo
+  name:
+    en-US: Promo
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: portfolio
+  name:
+    en-US: Portfolio
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: partners
+  name:
+    en-US: Partners
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: aboutsection
+  name:
+    en-US: AboutSection
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: form
+  name:
+    en-US: form
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''
+- id: feedback
+  name:
+    en-US: feedback
+  type: Reference
+  required: false
+  helpText:
+    en-US: ''

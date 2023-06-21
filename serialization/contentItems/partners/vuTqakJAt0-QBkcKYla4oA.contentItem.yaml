@@ -1,0 +1,54 @@
+﻿id: vuTqakJAt0-QBkcKYla4oA
+name: Partner
+fields:
+  partnertitle:
+    value: 'A NEW PARTNER FOR YOUR COMPANY '
+    type: ShortText
+  partnerdescription:
+    value: adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magn
+    type: LongText
+  partnercards:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "mSEFCnRNyE-YiEV-NgxnIg",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/mSEFCnRNyE-YiEV-NgxnIg"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "VUEucyGqX0aNBqtv0AsKBw",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/VUEucyGqX0aNBqtv0AsKBw"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "rwtJVvPaGE-1sv9UHu6Gdg",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/rwtJVvPaGE-1sv9UHu6Gdg"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "zp-xWxxg_kinRnprkTJ34Q",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/zp-xWxxg_kinRnprkTJ34Q"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "oseY_Mxfv0C8ppHQlZH96A",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/oseY_Mxfv0C8ppHQlZH96A"
+      }
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "7_f_FRmt9kySU3rJWimXTg",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/7_f_FRmt9kySU3rJWimXTg"
+      }
+    type: Reference

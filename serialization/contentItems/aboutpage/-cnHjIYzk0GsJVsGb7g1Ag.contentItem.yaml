@@ -1,0 +1,23 @@
+﻿id: -cnHjIYzk0GsJVsGb7g1Ag
+name: About Page
+fields:
+  header:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "SpJcA_npHES76pr0w3JE_A",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/SpJcA_npHES76pr0w3JE_A"
+      }
+    type: Reference
+  aboutsection:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "jMoaxGZuT0-59odZrCZqYQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/jMoaxGZuT0-59odZrCZqYQ"
+      }
+    type: Reference

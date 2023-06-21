@@ -1,0 +1,93 @@
+﻿id: -PZ5voYVdk6wQI207g799Q
+name: Page1
+fields:
+  promo:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "AaL563fhtEy2bjyIe_ZTsQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/AaL563fhtEy2bjyIe_ZTsQ"
+      }
+    type: Reference
+  portfolio:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "UXRQ6r1mxkekpGGkjwxtKg",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/UXRQ6r1mxkekpGGkjwxtKg"
+      }
+    type: Reference
+  aboutsection:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "jMoaxGZuT0-59odZrCZqYQ",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/jMoaxGZuT0-59odZrCZqYQ"
+      }
+    type: Reference
+  carousel:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "YF6EP7QZE0iHKXaGG3Im1w",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/YF6EP7QZE0iHKXaGG3Im1w"
+      }
+    type: Reference
+  partners:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "vuTqakJAt0-QBkcKYla4oA",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/vuTqakJAt0-QBkcKYla4oA"
+      }
+    type: Reference
+  services:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "Mc1BXQc49kqQRsTtV-P7hA",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/Mc1BXQc49kqQRsTtV-P7hA"
+      }
+    type: Reference
+  form:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "oVLTvvKvC0C677cOgESEMw",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/oVLTvvKvC0C677cOgESEMw"
+      }
+    type: Reference
+  feedback:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "rd6MxVDo7UC72p1_D94FFw",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/rd6MxVDo7UC72p1_D94FFw"
+      }
+    type: Reference
+  header:
+    value:
+    - >-
+      {
+        "type": "Link",
+        "relatedType": "Content",
+        "id": "SpJcA_npHES76pr0w3JE_A",
+        "uri": "http://content-api-weu.sitecorecloud.io/api/content/v1/items/SpJcA_npHES76pr0w3JE_A"
+      }
+    type: Reference

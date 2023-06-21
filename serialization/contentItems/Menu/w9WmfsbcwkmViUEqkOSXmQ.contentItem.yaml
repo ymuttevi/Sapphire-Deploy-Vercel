@@ -1,0 +1,9 @@
+﻿id: w9WmfsbcwkmViUEqkOSXmQ
+name: Home
+fields:
+  label:
+    value: Home
+    type: ShortText
+  link:
+    value: /
+    type: ShortText
